@@ -66,7 +66,7 @@ icon-font.svg
     ``` scss
     // 注意，最后以 / 结束
     $font-custom-path: "//g.alicdn.com/font-path/";
-    @improt "~@alifd/theme-xxx/index.scss";
+    @import "~@alifd/theme-xxx/index.scss";
     ```
 
 2. 按需加载组件的 js/scss
